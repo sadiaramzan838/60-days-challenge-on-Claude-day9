@@ -110,6 +110,18 @@ Increased ATS Match Score to 88/100.
 Learned the importance of tailoring a resume for specific job descriptions rather than using a generic resume.
 Documented ATS analysis results, optimized resume, screenshots, and key takeaways.
 
+Day 12 – Job Search & Personal Branding Toolkit
+
+Built a complete Job Search & Personal Branding Toolkit using Claude AI.
+Uploaded my resume and selected Frontend Developer as my target role.
+Analyzed my profile against job market requirements and target job descriptions.
+Generated ATS recommendations to improve resume visibility and recruiter reach.
+Identified skill gaps and created a roadmap for future learning and improvement.
+Received LinkedIn profile optimization suggestions to strengthen my professional presence.
+Explored job search strategies, application planning, and networking approaches.
+Researched target companies and relevant opportunities aligned with my career goals.
+Learned how personal branding can influence job search success.
+Documented generated outputs, screenshots, recommendations, and key takeaways.
 
 Key Learnings
 
